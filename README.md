@@ -1,0 +1,1 @@
+# OrderMinimalApi.CQRS
